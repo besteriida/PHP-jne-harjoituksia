@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html> <!-- Tää pitää olla -->
+<!DOCTYPE html> <!-- Tää pitää olla -->
 <html lang ="en" dir="ltr">
     <head>
         <meta charset="utf-8">
