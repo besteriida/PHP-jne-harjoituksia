@@ -62,6 +62,7 @@
     <input type="date" name="end_date" id="endDate" required> <!-- pitää matchata noi id ja nimet -->
 
     <button type="submit">Save Event</button>
+</form>
     
     <!-- Delete lomake joka varmistaa ootko varma poistosta -->
 
